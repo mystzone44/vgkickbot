@@ -1,0 +1,4 @@
+/target
+/tessdata
+config.json
+.env
